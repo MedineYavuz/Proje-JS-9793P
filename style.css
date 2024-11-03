@@ -1,0 +1,31 @@
+.focus-body{
+    text-align: center;
+    background-color: #fcbf49;
+    color: #003049;
+}
+
+.focus-body h1{
+    font-size: 60px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.focus-body .focus-count{
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: #003049;
+    font-size: large;
+    font-weight: bold;
+   
+}
+
+ul li a:hover{
+    color: #BB2D3B;
+    
+}
